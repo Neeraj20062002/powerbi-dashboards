@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python / Node (if any local envs)
+venv/
+node_modules/
+
+# Power BI local temps
+*.pbix1
+*.pbix_backup
