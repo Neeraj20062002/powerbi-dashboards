@@ -28,9 +28,9 @@ Each project demonstrates:
 📄 _File:_ `Cardio_Fitness.pbix`  
 🧩 _Key Highlights:_
 
-- Metrics for heart rate, steps, calories
-- Trend lines for activity levels
-- User-friendly visuals with slicers and filters
+- Metrics for heart rate, steps, calories  
+- Trend lines for activity levels  
+- User-friendly visuals with slicers and filters  
 
 ---
 
@@ -44,9 +44,9 @@ Each project demonstrates:
 📄 _File:_ `Global_Sales.pbix`  
 🧩 _Key Highlights:_
 
-- Region-wise and product-wise sales KPIs
-- Profit margin and sales growth analysis
-- Drill-down insights with interactive visuals
+- Region-wise and product-wise sales KPIs  
+- Profit margin and sales growth analysis  
+- Drill-down insights with interactive visuals  
 
 ---
 
@@ -60,18 +60,18 @@ Each project demonstrates:
 📄 _File:_ `Heart_Disease.pbix`  
 🧩 _Key Highlights:_
 
-- Demographic segmentation (age, gender)
-- Risk score distribution
-- DAX-based health metrics
+- Demographic segmentation (age, gender)  
+- Risk score distribution  
+- DAX-based health metrics  
 
 ---
 
 ## ⚙️ How to View the Dashboards
 
-1. Download the `.pbix` files from each folder.
-2. Open in **Power BI Desktop** (latest version).
-3. If data sources are missing, load sample data or connect your own dataset.
-4. Explore and interact with visuals!
+1. Download the `.pbix` files from each folder.  
+2. Open in **Power BI Desktop** (latest version).  
+3. If data sources are missing, load sample data or connect your own dataset.  
+4. Explore and interact with visuals!  
 
 ---
 
@@ -83,16 +83,6 @@ Each project demonstrates:
 | **Power Query**                     | Data transformation                   |
 | **DAX (Data Analysis Expressions)** | Calculations and measures             |
 | **Git & GitHub**                    | Version control and portfolio hosting |
-
----
-
-## 🖼️ Preview
-
-<p align="center">
-  <img src="assets/overview.png" alt="Power BI Dashboards Preview" width="700"/>
-</p>
-
-_(You can add an overview image later — a combined collage of your dashboards.)_
 
 ---
 
